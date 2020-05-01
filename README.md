@@ -40,12 +40,13 @@ Students who violates academic integrity will get an F.
 |#|Topics|Reading|Homework|
 |-|------|-------|--------|
 |1|Introduction||
-|2|Fuzzing|[AddressSanitizer](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)|
-|3|Static Analysis||
+|2|Fuzzing|[[AddressSanitizer/USENIXATC12]](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)|
+|3|Static Analysis|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]|
 |4|Type Systems|[CCured](https://dl.acm.org/doi/10.1145/1065887.1065892)|
 |5|Constraint-based Analysis||
 |6|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)]|
 |7|Statistical Debugging||
 |8|Delta Debugging||
 |9|Differential Testing|[DeepXplore](https://dl.acm.org/doi/10.1145/3132747.3132785)|
-[[CFI/CCS05](https://dl.acm.org/doi/10.1145/1102120.1102165)]
+||[[CFI/CCS05](https://dl.acm.org/doi/10.1145/1102120.1102165)]
+||[[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]
