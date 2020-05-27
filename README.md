@@ -23,6 +23,10 @@ Moreover, student should get familiar with `git`.
 If you are new to `git`, see this [book](https://git-scm.com/book/en/v2).
 Students will use the [OCaml](https://ocaml.org) programming language for the assignments.
 
+- [Commercial Users of Functional Programming](http://cufp.org/2017)
+- [OCaml for the Masses](https://queue.acm.org/detail.cfm?id=2038036)
+- [Why OCaml](https://blog.janestreet.com/why-ocaml/)
+
 All submissions will be managed using Github.
 For each assignment, a unique invitation URL for Github Classroom will be posted at [KLMS](http://klms.kaist.ac.kr).
 Once you accept the invitation, a private repository for your assignment will be created.
