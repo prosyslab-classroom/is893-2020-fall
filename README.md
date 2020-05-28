@@ -8,6 +8,11 @@
 - Location: 
 
 ## Course Description
+This course covers advanced topics in software security. Students will be exposed to
+techniques that are gaining increasing attention in the software security research
+communities through research papers and programming assignments. Students will have
+opportunities to develop their scientific communication skills through writing their
+own project proposals and presenting their solutions.
 
 ## Grading
 
@@ -45,13 +50,18 @@ Students who violates academic integrity will get an F.
 |#|Topics|Reading|Homework|
 |-|------|-------|--------|
 |1|Introduction||
-|2|Fuzzing|[[AddressSanitizer/USENIXATC12]](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)|
-|3|Static Analysis|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]|
-|4|Type Systems|[CCured](https://dl.acm.org/doi/10.1145/1065887.1065892)|
-|5|Constraint-based Analysis||
-|6|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)]|
-|7|Statistical Debugging||
-|8|Delta Debugging||
-|9|Differential Testing|[DeepXplore](https://dl.acm.org/doi/10.1145/3132747.3132785)|
+|2|Concepts in Software Security||
+|3|Runtime Monitoring|[[AddressSanitizer/USENIXATC12]](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf), [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]|
+|4|Fuzzing||
+|5|Differential Testing|[DeepXplore](https://dl.acm.org/doi/10.1145/3132747.3132785)|
+|6|Statistical Debugging||
+|7|Delta Debugging||
+|8|Static Analysis|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]|
+|9|Type Systems|[CCured](https://dl.acm.org/doi/10.1145/1065887.1065892)|
+|10|Constraint-based Analysis||
+|11|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)]|
+|12|Assertion Checking||
+|13|Project Presentation||
+|14|Differential Testing||
+|15|Final Exam||
 ||[[CFI/CCS05](https://dl.acm.org/doi/10.1145/1102120.1102165)]
-||[[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]
