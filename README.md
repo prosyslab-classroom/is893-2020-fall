@@ -51,9 +51,9 @@ Students who violates academic integrity will get an F.
 |-|------|-------|--------|
 |1|Introduction||
 |2|Concepts in Software Security||
-|3|Runtime Monitoring|[[AddressSanitizer/USENIXATC12]](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf), [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]|
+|3|Runtime Monitoring|[[AddressSanitizer/USENIXATC12](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)], [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]|
 |4|Fuzzing||
-|5|Differential Testing|[DeepXplore](https://dl.acm.org/doi/10.1145/3132747.3132785)|
+|5|Differential Testing|[[DeepXplore/SOSP17](https://dl.acm.org/doi/10.1145/3132747.3132785)], [[NEZHA/S&P17](https://ieeexplore.ieee.org/abstract/document/7958601)]||
 |6|Statistical Debugging||
 |7|Delta Debugging||
 |8|Static Analysis|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]|
