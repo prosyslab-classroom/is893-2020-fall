@@ -57,11 +57,10 @@ Students who violates academic integrity will get an F.
 |6|Statistical Debugging||
 |7|Delta Debugging||
 |8|Static Analysis|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]|
-|9|Type Systems|[CCured](https://dl.acm.org/doi/10.1145/1065887.1065892)|
-|10|Constraint-based Analysis||
+|9|Type Systems|[[CCured/TOPLAS05](https://dl.acm.org/doi/10.1145/1065887.1065892)], [[TypeEq/CCS17](https://dl.acm.org/doi/abs/10.1145/3133956.3133998)]|
+|10|Constraint-based Analysis|[[Securify/CCS18](https://dl.acm.org/doi/10.1145/3243734.3243780)], [[Ethainter/PLDI20](https://yanniss.github.io/ethainter-pldi20-draft.pdf)]|
 |11|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)]|
-|12|Assertion Checking||
+|12|Assertion Checking|[[VeriSmart/S&P20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)]|
 |13|Project Presentation||
-|14|Differential Testing||
-|15|Final Exam||
+|14|Final Exam||
 ||[[CFI/CCS05](https://dl.acm.org/doi/10.1145/1102120.1102165)]
