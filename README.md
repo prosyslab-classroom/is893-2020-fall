@@ -32,6 +32,7 @@ Students will use the [OCaml](https://ocaml.org) programming language for the as
 - [OCaml for the Masses](https://queue.acm.org/detail.cfm?id=2038036)
 - [Why OCaml](https://blog.janestreet.com/why-ocaml/)
 - [Why Functional Programming Matters](https://dl.acm.org/doi/10.1093/comjnl/32.2.98) [<img src="youtube_social_icon_red.png" width="16" />](https://youtu.be/1qBHf8DrWR8)
+- [Functional Programming in 40 minutes](https://youtu.be/0if71HOyVjY)
 
 All submissions will be managed using Github.
 For each assignment, a unique invitation URL for Github Classroom will be posted at [KLMS](http://klms.kaist.ac.kr).
