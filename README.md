@@ -2,10 +2,10 @@
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
-- TAs: 
-- Time: 
-- Office hour: 
-- Location: 
+- TAs:
+- Time:
+- Office hour:
+- Location:
 
 ## Course Description
 This course covers advanced topics in software security. Students will be exposed to
@@ -31,7 +31,7 @@ Students will use the [OCaml](https://ocaml.org) programming language for the as
 - [Commercial Users of Functional Programming](http://cufp.org/2017)
 - [OCaml for the Masses](https://queue.acm.org/detail.cfm?id=2038036)
 - [Why OCaml](https://blog.janestreet.com/why-ocaml/)
-- [Why Functional Programming Matters](https://dl.acm.org/doi/10.1093/comjnl/32.2.98) [<img src="youtube_social_icon_red.png" width="16" />](https://youtu.be/1qBHf8DrWR8)
+- [Why Functional Programming Matters](https://dl.acm.org/doi/10.1093/comjnl/32.2.98) [<img src="asset/youtube.png" width="16" />](https://youtu.be/1qBHf8DrWR8)
 - [Functional Programming in 40 minutes](https://youtu.be/0if71HOyVjY)
 
 All submissions will be managed using Github.
@@ -52,7 +52,7 @@ Students who violates academic integrity will get an F.
 |-|------|-------|--------|
 |1|Introduction||
 |2|Concepts in Software Security||
-|3|Runtime Monitoring|[[AddressSanitizer/USENIXATC12](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)], [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]|
+|3|Runtime Monitoring|[[AddressSanitizer/USENIXATC12](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)], [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]||
 |4|Fuzzing||
 |5|Differential Testing|[[DeepXplore/SOSP17](https://dl.acm.org/doi/10.1145/3132747.3132785)], [[NEZHA/S&P17](https://ieeexplore.ieee.org/abstract/document/7958601)]||
 |6|Statistical Debugging||
@@ -64,4 +64,3 @@ Students who violates academic integrity will get an F.
 |12|Assertion Checking|[[VeriSmart/S&P20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)]|
 |13|Project Presentation||
 |14|Final Exam||
-||[[CFI/CCS05](https://dl.acm.org/doi/10.1145/1102120.1102165)]
