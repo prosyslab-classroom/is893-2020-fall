@@ -3,7 +3,7 @@
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
 - TAs:
-- Time:
+- Time: Mon/Wed 09:00-10:15 
 - Office hour:
 - Location:
 
@@ -50,8 +50,8 @@ Students who violates academic integrity will get an F.
 ## Schedule (tentative)
 |#|Topics|Reading|Homework|
 |-|------|-------|--------|
-|1|Introduction|HW0: Hello-world|
-|2|Concepts in Software Security|Hw1: OCaml Programming|
+|1|Introduction||HW0: Hello-world|
+|2|Concepts in Software Security||Hw1: OCaml Programming|
 |3|Runtime Monitoring|[[AddressSanitizer/USENIXATC12](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)], [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]|HW2: SmaLLVM Sanitizer|
 |4|Fuzzing||HW3: SmaLLVM Fuzzer|
 |5|Differential Testing|[[DeepXplore/SOSP17](https://dl.acm.org/doi/10.1145/3132747.3132785)], [[NEZHA/S&P17](https://ieeexplore.ieee.org/abstract/document/7958601)]||
