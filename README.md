@@ -61,14 +61,13 @@ Students who violates academic integrity will get an F.
 |1|Introduction||HW0: Hello-world|
 |2|Concepts in Software Security||Hw1: OCaml Programming|
 |3|Runtime Monitoring|[[AddressSanitizer/USENIXATC12](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)], [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]|HW2: SmaLLVM Sanitizer|
-|4|Fuzzing||HW3: SmaLLVM Fuzzer|
-|5|Differential Testing|[[DeepXplore/SOSP17](https://dl.acm.org/doi/10.1145/3132747.3132785)], [[NEZHA/S&P17](https://ieeexplore.ieee.org/abstract/document/7958601)]||
-|6|Statistical Debugging||
-|7|Delta Debugging||
-|8|Static Analysis|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]|
-|9|Type Systems|[[CCured/TOPLAS05](https://dl.acm.org/doi/10.1145/1065887.1065892)], [[TypeEq/CCS17](https://dl.acm.org/doi/abs/10.1145/3133956.3133998)]|HWX: SmaLLVM Type Checker|
-|10|Constraint-based Analysis|[[Securify/CCS18](https://dl.acm.org/doi/10.1145/3243734.3243780)], [[Ethainter/PLDI20](https://yanniss.github.io/ethainter-pldi20-draft.pdf)]|HWX: SmaLLVM Symbolic Executer||
-|11|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)]|HWX: SmaLLVM Concolic Tester|
-|12|Assertion Checking|[[VeriSmart/S&P20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)]|
-|13|Project Presentation||
-|14|Final Exam||
+|4|Fuzzing|[[DeepXplore/SOSP17](https://dl.acm.org/doi/10.1145/3132747.3132785)], [[NEZHA/S&P17](https://ieeexplore.ieee.org/abstract/document/7958601)]|HW3: SmaLLVM Fuzzer||
+|5|Statistical Debugging||
+|6|Delta Debugging||
+|7|Static Analysis|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]|
+|8|Type Systems|[[CCured/TOPLAS05](https://dl.acm.org/doi/10.1145/1065887.1065892)], [[TypeEq/CCS17](https://dl.acm.org/doi/abs/10.1145/3133956.3133998)]|HWX: SmaLLVM Type Checker|
+|9|Constraint-based Analysis|[[Securify/CCS18](https://dl.acm.org/doi/10.1145/3243734.3243780)], [[Ethainter/PLDI20](https://yanniss.github.io/ethainter-pldi20-draft.pdf)]|HWX: SmaLLVM Symbolic Executer||
+|10|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)]|HWX: SmaLLVM Concolic Tester|
+|11|Assertion Checking|[[VeriSmart/S&P20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)]|
+|12|Project Presentation||
+|13|Final Exam||
