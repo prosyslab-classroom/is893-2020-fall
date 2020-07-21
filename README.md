@@ -15,9 +15,17 @@ opportunities to develop their scientific communication skills through writing t
 own project proposals and presenting their solutions.
 
 ## Grading
+- Homework: 40%
+- Paper Presentation: 10%
+- Project: 30%
+- Final: 20%
 
 ## Textbook
 - Lecture slides will be provided
+- Paul C. van Oorschot, [Computer Security and the Internet: Tools and Jewels](https://people.scs.carleton.ca/~paulv/toolsjewels.html), Springer, 2020
+- Benjamin C. Pierce, [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl), MIT Press, 2002
+- Aaron R. BradleyZohar Manna, [The Calculus of Computation](https://link.springer.com/book/10.1007/978-3-540-74113-8), Springer, 2007
+- Xavier Rival and Kwangkeun Yi, [Introduction to Static Analysis: an Abstract Interpretation Perspective](https://mitpress.mit.edu/books/introduction-static-analysis), MIT Press, 2020
 
 ## Homework
 This course includes programming assignments through which students will learn how to design
