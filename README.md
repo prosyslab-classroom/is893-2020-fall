@@ -4,8 +4,8 @@
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
 - TAs:
 - Time: Mon/Wed 09:00-10:15 
-- Office hour:
-- Location:
+- Office hour: by appointment
+- Location: Zoom
 
 ## Course Description
 This course covers advanced topics in software security. Students will be exposed to
