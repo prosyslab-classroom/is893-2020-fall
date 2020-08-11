@@ -44,6 +44,7 @@ The late homework policy is as follows:
   - NO credit given after two days late
 
 - Students will use the [OCaml](https://ocaml.org) programming language for the assignments. For more details of OCaml, see the following meterials:
+  - [Real World OCaml](https://dev.realworldocaml.org/index.html)
   - [Commercial Users of Functional Programming](http://cufp.org/2017)
   - [OCaml for the Masses](https://queue.acm.org/detail.cfm?id=2038036)
   - [Why OCaml](https://blog.janestreet.com/why-ocaml/)
