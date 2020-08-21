@@ -67,10 +67,10 @@ Students who violates academic integrity will get an F.
 |0|[Functional Programming in OCaml](https://github.com/prosyslab-classroom/is593-2020-spring/blob/master/slides/lecture0.pdf)|||
 |1|Introduction|||HW0: Hello-world|
 |2|**Concepts in Software Security**|||Hw1: OCaml Programming|
-|3|Software Integrity|[[CFI/CCS05](https://dl.acm.org/doi/10.1145/1102120.1102165)],[[DFI/OSDI06](https://dl.acm.org/doi/10.5555/1298455.1298470)],[[Conti/CCS15](https://dl.acm.org/doi/10.1145/1102120.1102165)],[[CPI/OSDI14](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/kuznetsov)], [[CFB/USENIXSEC15](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/carlini)|[LLVM-CFI](https://clang.llvm.org/docs/ControlFlowIntegrity.html)||
+|3|Software Integrity|[[CFI/CCS05](https://dl.acm.org/doi/10.1145/1102120.1102165)],[[DFI/OSDI06](https://dl.acm.org/doi/10.5555/1298455.1298470)],[[Conti/CCS15](https://dl.acm.org/doi/10.1145/1102120.1102165)],[[CPI/OSDI14](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/kuznetsov)], [[CFB/USENIXSEC15](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/carlini)]|[LLVM-CFI](https://clang.llvm.org/docs/ControlFlowIntegrity.html)||
 |4|Exploitation|||
 |5|**Dynamic Analysis**|||
-|6|Runtime Monitoring|[[AddressSanitizer/USENIXATC12](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)], [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]|HW2: SmaLLVM Sanitizer|
+|6|Runtime Monitoring|[[AddressSanitizer/USENIXATC12](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)], [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]||HW2: SmaLLVM Sanitizer|
 |7|Fuzzing|[[DeepXplore/SOSP17](https://dl.acm.org/doi/10.1145/3132747.3132785)], [[NEZHA/S&P17](https://ieeexplore.ieee.org/abstract/document/7958601)][[NAUTILUS/NDSS20](https://www.ndss-symposium.org/ndss-paper/nautilus-fishing-for-deep-bugs-with-grammars)]||HW3: SmaLLVM Fuzzer||
 |8|Fault Localization|[[CBI/PLDI05](https://dl.acm.org/doi/10.1145/1065010.1065014)]|[CBI](https://research.cs.wisc.edu/cbi/)|
 |9|Cause Reduction|[[CReduce/PLDI12](https://dl.acm.org/doi/10.1145/2345156.2254104)]||
