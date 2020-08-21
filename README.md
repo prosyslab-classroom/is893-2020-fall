@@ -16,9 +16,8 @@ own project proposals and presenting their solutions.
 
 ## Grading
 - Homework: 40%
-- Paper Presentation: 10%
+- Paper Presentation: 30%
 - Project: 30%
-- Final: 20%
 
 ## Textbook
 - Lecture slides will be provided
@@ -80,4 +79,3 @@ Students who violates academic integrity will get an F.
 |13|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)],[[KLEE/OSDI08](https://dl.acm.org/doi/10.5555/1855741.1855756)]|[KLEE](http://klee.github.io)|HWX: SmaLLVM Concolic Tester|
 |14|Assertion Checking|[[VeriSmart/S&P20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)]||
 |15|Project Presentation|||
-|16|Final Exam|||
