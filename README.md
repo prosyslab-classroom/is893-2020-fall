@@ -70,7 +70,7 @@ Students who violates academic integrity will get an F.
 |4|Exploitation|[[COOP/S&P15](https://ieeexplore.ieee.org/document/7163058)],[[TypeArmor/S&P16](https://ieeexplore.ieee.org/document/7546543)]||
 |5|**Dynamic Analysis**|||
 |6|Runtime Monitoring|[[AddressSanitizer/USENIXATC12](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)], [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]|[LLVM-ASAN](https://clang.llvm.org/docs/AddressSanitizer.html)|HW2: SmaLLVM Sanitizer|
-|7|Fuzzing|[[DeepXplore/SOSP17](https://dl.acm.org/doi/10.1145/3132747.3132785)], [[NEZHA/S&P17](https://ieeexplore.ieee.org/abstract/document/7958601)][[NAUTILUS/NDSS20](https://www.ndss-symposium.org/ndss-paper/nautilus-fishing-for-deep-bugs-with-grammars)]||HW3: SmaLLVM Fuzzer||
+|7|Fuzzing|[[DeepXplore/SOSP17](https://dl.acm.org/doi/10.1145/3132747.3132785)], [[NEZHA/S&P17](https://ieeexplore.ieee.org/abstract/document/7958601)][[NAUTILUS/NDSS20](https://www.ndss-symposium.org/ndss-paper/nautilus-fishing-for-deep-bugs-with-grammars)]|[AFL](https://lcamtuf.coredump.cx/afl/), [LLVM-LibFuzzer](https://llvm.org/docs/LibFuzzer.html)|HW3: SmaLLVM Fuzzer||
 |8|Fault Localization|[[CBI/PLDI05](https://dl.acm.org/doi/10.1145/1065010.1065014)]|[CBI](https://research.cs.wisc.edu/cbi/)|
 |9|Cause Reduction|[[C-Reduce/PLDI12](https://dl.acm.org/doi/10.1145/2345156.2254104)]|[C-Reduce](https://embed.cs.utah.edu/creduce/)|
 |10|**Static Analysis**|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]||
