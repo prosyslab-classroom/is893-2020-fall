@@ -64,7 +64,7 @@ Students who violates academic integrity will get an F.
 |#|Topics|Reading|Tool|Homework|
 |-|------|-------|----|--------|
 |0|[Functional Programming in OCaml](https://github.com/prosyslab-classroom/is593-2020-spring/blob/master/slides/lecture0.pdf)|||
-|1|[Introduction](slides/lecture1.pdf)|||HW0: Hello-world|
+|1|[Introduction](slides/lecture1.pdf)|||[<img src="icons/github-classroom.png" width="16" />HW0: Hello-world](https://classroom.github.com/a/2pyTXU7M)|
 |2|**Part 1: Basic Concepts**|||Hw1: OCaml Programming|
 |3|Software Integrity|[[CFI/CCS05](https://dl.acm.org/doi/10.1145/1102120.1102165)],[[DFI/OSDI06](https://dl.acm.org/doi/10.5555/1298455.1298470)],[[Conti/CCS15](https://dl.acm.org/doi/10.1145/1102120.1102165)],[[CPI/OSDI14](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/kuznetsov)], [[CFB/USENIXSEC15](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/carlini)]|[LLVM-CFI](https://clang.llvm.org/docs/ControlFlowIntegrity.html)||
 |4|Exploitation|[[COOP/S&P15](https://ieeexplore.ieee.org/document/7163058)],[[TypeArmor/S&P16](https://ieeexplore.ieee.org/document/7546543)]||
