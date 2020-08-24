@@ -47,7 +47,7 @@ The late homework policy is as follows:
   - [Commercial Users of Functional Programming](http://cufp.org/2017)
   - [OCaml for the Masses](https://queue.acm.org/detail.cfm?id=2038036)
   - [Why OCaml](https://blog.janestreet.com/why-ocaml/)
-  - [Why Functional Programming Matters](https://dl.acm.org/doi/10.1093/comjnl/32.2.98) [<img src="asset/youtube.png" width="16" />](https://youtu.be/1qBHf8DrWR8)
+  - [Why Functional Programming Matters](https://dl.acm.org/doi/10.1093/comjnl/32.2.98) [<img src="icons/youtube.png" width="16" />](https://youtu.be/1qBHf8DrWR8)
   - [Functional Programming in 40 minutes](https://youtu.be/0if71HOyVjY)
 
 - Students will use the [LLVM](https://llvm.org) infrastructure and implement various tools that analyze programs written in LLVM IR code.
