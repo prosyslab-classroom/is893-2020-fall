@@ -1,8 +1,8 @@
 # IS893: Advanced Software Security
 
 ## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
-- TAs:
+- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@kaist.ac.kr)
+- TAs: Changhoon Song (송창훈, songch@kaist.ac.kr), Myojoon Kil (길묘준, myojoonkil@kaist.ac.kr)
 - Time: Mon/Wed 09:00-10:15
 - Office hour: by appointment
 - Location: Zoom
