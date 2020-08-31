@@ -75,7 +75,7 @@ Students who violates academic integrity will get an F.
 |9|Cause Reduction|[[C-Reduce/PLDI12](https://dl.acm.org/doi/10.1145/2345156.2254104)]|[C-Reduce](https://embed.cs.utah.edu/creduce/)|
 |10|**Part 3: Static Approaches**|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]||
 |11|Type Systems|[[CCured/TOPLAS05](https://dl.acm.org/doi/10.1145/1065887.1065892)], [[TypeEq/CCS17](https://dl.acm.org/doi/abs/10.1145/3133956.3133998)]||HWX: SmaLLVM Type Checker|
-|12|Constraint-based Analysis|[[Securify/CCS18](https://dl.acm.org/doi/10.1145/3243734.3243780)], [[Ethainter/PLDI20](https://yanniss.github.io/ethainter-pldi20-draft.pdf)]||HWX: SmaLLVM Constraint-based analyzer||
+|12|Constraint-based Analysis|[[Securify/CCS18](https://dl.acm.org/doi/10.1145/3243734.3243780)], [[Ethainter/PLDI20](https://dl.acm.org/doi/abs/10.1145/3385412.3385990)]||HWX: SmaLLVM Constraint-based analyzer||
 |13|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)],[[KLEE/OSDI08](https://dl.acm.org/doi/10.5555/1855741.1855756)]|[KLEE](http://klee.github.io)|HWX: SmaLLVM Concolic Tester|
 |14|Assertion Checking|[[CEGAR/CAV00](https://link.springer.com/chapter/10.1007/10722167_15)],[[VeriSmart/S&P20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)]||
 |15|Project Presentation|||
