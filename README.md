@@ -50,6 +50,7 @@ The late homework policy is as follows:
   - [Why OCaml](https://blog.janestreet.com/why-ocaml/)
   - [Why Functional Programming Matters](https://dl.acm.org/doi/10.1093/comjnl/32.2.98) [<img src="icons/youtube.png" width="16" />](https://youtu.be/1qBHf8DrWR8)
   - [Functional Programming in 40 minutes](https://youtu.be/0if71HOyVjY)
+  - [Functional Programming in OCaml (Cornell CS3110)](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/)
 
 - Students will use the [LLVM](https://llvm.org) infrastructure and implement various tools that analyze programs written in LLVM IR code.
 LLVM IR code can be generated from many source languages such as C/C++/Obj-C, Swift, Rust, Scala, Haskell, etc.
