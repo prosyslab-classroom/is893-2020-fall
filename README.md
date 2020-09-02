@@ -67,10 +67,10 @@ Students who violates academic integrity will get an F.
 |-|------|-------|----|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)|||
 |1|[Introduction](slides/lecture1.pdf)|||[<img src="icons/github-classroom.png" width="16" />HW0: Hello-world](https://classroom.github.com/a/2pyTXU7M)|
-|2|**Part 1: Basic Concepts**|||Hw1: OCaml Programming|
+|2|[**Part 1: Basic Concepts**](slides/lecture2.pdf)|||[<img src="icons/github-classroom.png" width="16" />HW1: OCaml Programming](https://classroom.github.com/a/O7rd_BBa)|
 |3|Exploitation|[[ASLR/CCS04](https://dl.acm.org/doi/10.1145/1030083.1030124)],[[ROP/CCS07](https://dl.acm.org/doi/10.1145/1315245.1315313)],[[COOP/S&P15](https://ieeexplore.ieee.org/document/7163058)],[[TypeArmor/S&P16](https://ieeexplore.ieee.org/document/7546543)],[[KOOBE/USENIXSEC20](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-weiteng)]||
 |4|Software Integrity|[[CFI/CCS05](https://dl.acm.org/doi/10.1145/1102120.1102165)],[[DFI/OSDI06](https://dl.acm.org/doi/10.5555/1298455.1298470)],[[Conti/CCS15](https://dl.acm.org/doi/10.1145/1102120.1102165)],[[CPI/OSDI14](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/kuznetsov)], [[CFB/USENIXSEC15](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/carlini)]|[LLVM-CFI](https://clang.llvm.org/docs/ControlFlowIntegrity.html)||
-|5|Presentation|[[CFI/이대진](slides/cfi.pdf)], [[CFI/류혜원](slides/cpi.pdf)]|||
+|5|Presentation|[[CFI/이대진](slides/cfi.pdf)], [[CPI/류혜원](slides/cpi.pdf)]|||
 |6|**Part 2: Dynamic Approaches**|||
 |7|Runtime Monitoring|[[AddressSanitizer/USENIXATC12](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)], [[SoftBound/PLDI09](https://dl.acm.org/doi/abs/10.1145/1542476.1542504)]|[LLVM-ASAN](https://clang.llvm.org/docs/AddressSanitizer.html)|HW2: SmaLLVM Sanitizer|
 |8|Fuzzing|[[DeepXplore/SOSP17](https://dl.acm.org/doi/10.1145/3132747.3132785)], [[NEZHA/S&P17](https://ieeexplore.ieee.org/abstract/document/7958601)][[NAUTILUS/NDSS20](https://www.ndss-symposium.org/ndss-paper/nautilus-fishing-for-deep-bugs-with-grammars)]|[AFL](https://lcamtuf.coredump.cx/afl/), [LLVM-LibFuzzer](https://llvm.org/docs/LibFuzzer.html)|HW3: SmaLLVM Fuzzer||
