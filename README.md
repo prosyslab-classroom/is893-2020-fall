@@ -81,3 +81,5 @@ Students who violates academic integrity will get an F.
 |13|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)],[[KLEE/OSDI08](https://dl.acm.org/doi/10.5555/1855741.1855756)]||[KLEE](http://klee.github.io)|HWX: SmaLLVM Concolic Tester|
 |14|Assertion Checking|[[CEGAR/CAV00](https://link.springer.com/chapter/10.1007/10722167_15)],[[VeriSmart/S&P20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)]|||
 |15|Project Presentation|||
+
+[Presentation Schedule](https://docs.google.com/spreadsheets/d/1XWGdLnSZEkEaK1olUEcjb9SKhbfpW5-roQ6asPTfBhE/edit?usp=sharing)
