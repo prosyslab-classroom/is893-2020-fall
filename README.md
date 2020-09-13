@@ -65,6 +65,7 @@ Students who violates academic integrity will get an F.
 ## Schedule (tentative)
 |#|Topics|Reading|Presentation|Tools|Homework|
 |-|------|-------|------------|-----|--------|
+|-|[Presentation Schedule](https://docs.google.com/spreadsheets/d/1XWGdLnSZEkEaK1olUEcjb9SKhbfpW5-roQ6asPTfBhE/edit?usp=sharing)|||||
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)|||
 |1|[Introduction](slides/lecture1.pdf)||||[<img src="icons/github-classroom.png" width="16" />HW0: Hello-world](https://classroom.github.com/a/2pyTXU7M)|
 |2|[**Part 1: Basic Concepts**](slides/lecture2.pdf)||||[<img src="icons/github-classroom.png" width="16" />HW1: OCaml Programming](https://classroom.github.com/a/O7rd_BBa)|
@@ -76,10 +77,8 @@ Students who violates academic integrity will get an F.
 |8|Fault Localization|[[CBI/PLDI05](https://dl.acm.org/doi/10.1145/1065010.1065014)],[[CCC/PLDI11](https://dl.acm.org/doi/10.1145/1993316.1993550)]||[CBI](https://research.cs.wisc.edu/cbi/)|
 |9|Cause Reduction|[[C-Reduce/PLDI12](https://dl.acm.org/doi/10.1145/2345156.2254104)]||[C-Reduce](https://embed.cs.utah.edu/creduce/)|
 |10|**Part 3: Static Approaches**|[[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)]|||
-|11|Type Systems|[[CCured/TOPLAS05](https://dl.acm.org/doi/10.1145/1065887.1065892)], [[TypeEq/CCS17](https://dl.acm.org/doi/abs/10.1145/3133956.3133998)]|||HWX: SmaLLVM Type Checker|
+|11|Type Systems|[[CCured/TOPLAS05](https://dl.acm.org/doi/10.1145/1065887.1065892)], [[TypeEq/CCS17](https://dl.acm.org/doi/abs/10.1145/3133956.3133998)]||[CheckerFramework](https://checkerframework.org)|HWX: SmaLLVM Type Checker|
 |12|Constraint-based Analysis|[[Securify/CCS18](https://dl.acm.org/doi/10.1145/3243734.3243780)], [[Ethainter/PLDI20](https://dl.acm.org/doi/abs/10.1145/3385412.3385990)]|||HWX: SmaLLVM Constraint-based analyzer||
 |13|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)],[[KLEE/OSDI08](https://dl.acm.org/doi/10.5555/1855741.1855756)]||[KLEE](http://klee.github.io)|HWX: SmaLLVM Concolic Tester|
 |14|Assertion Checking|[[CEGAR/CAV00](https://link.springer.com/chapter/10.1007/10722167_15)],[[VeriSmart/S&P20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)]|||
 |15|Project Presentation|||
-
-[Presentation Schedule](https://docs.google.com/spreadsheets/d/1XWGdLnSZEkEaK1olUEcjb9SKhbfpW5-roQ6asPTfBhE/edit?usp=sharing)
