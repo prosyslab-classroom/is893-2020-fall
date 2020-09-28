@@ -66,7 +66,6 @@ Students who violates academic integrity will get an F.
 |#|Topics|Reading|Presentation|Tools|Homework|
 |-|------|-------|------------|-----|--------|
 |-|[Presentation Schedule](https://docs.google.com/spreadsheets/d/1XWGdLnSZEkEaK1olUEcjb9SKhbfpW5-roQ6asPTfBhE/edit?usp=sharing)|||||
-|-|[Project Guideline](slides/project.pdf)|||||
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)|||
 |1|[Introduction](slides/lecture1.pdf)||||[<img src="icons/github-classroom.png" width="16" />HW0: Hello-world](https://classroom.github.com/a/2pyTXU7M)|
 |2|[**Part 1: Basic Concepts**](slides/lecture2.pdf)||||[<img src="icons/github-classroom.png" width="16" />HW1: OCaml Programming](https://classroom.github.com/a/O7rd_BBa)|
@@ -83,3 +82,4 @@ Students who violates academic integrity will get an F.
 |13|Symbolic Execution|[[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)],[[KLEE/OSDI08](https://dl.acm.org/doi/10.5555/1855741.1855756)]||[KLEE](http://klee.github.io)|HWX: SmaLLVM Concolic Tester|
 |14|Assertion Checking|[[CEGAR/CAV00](https://link.springer.com/chapter/10.1007/10722167_15)],[[VeriSmart/S&P20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)]||[SeaHorn](http://seahorn.github.io)||
 |15|Project Presentation||
+|-|[Project Guideline](slides/project.pdf)||||[<img src="icons/github-classroom.png" width="16" />Project](https://classroom.github.com/a/lBCHIeFq)|
