@@ -79,8 +79,8 @@ Students who violates academic integrity will get an F.
 |9|[Fault Localization](slides/lecture5.pdf)|[CBI/PLDI05](https://dl.acm.org/doi/10.1145/1065010.1065014)<br>[CCC/PLDI11](https://dl.acm.org/doi/10.1145/1993316.1993550)||[CBI](https://research.cs.wisc.edu/cbi/)|
 |10|[**Part 3: Static Approaches**](slides/lecture6.pdf)|[Astree/PLDI03](https://dl.acm.org/doi/abs/10.1145/781131.781153)|||
 |11|[Data-flow Analysis](slides/lecture7.pdf)||||[<img src="icons/github-classroom.png" width="16" />HW5: SmaLLVM Dataflow](https://classroom.github.com/a/Vff2oy-c)|
-|11|[Logic and Constraint Languages](slides/lecture8.pdf)||||||
-|12|[Constraint-based Analysis](slides/lecture9.pdf)|[Securify/CCS18](https://dl.acm.org/doi/10.1145/3243734.3243780), [Ethainter/PLDI20](https://dl.acm.org/doi/abs/10.1145/3385412.3385990)|||[<img src="icons/github-classroom.png" width="16" />HW6: SmaLLVM Constraint-based analyzer](https://classroom.github.com/a/rw7SrKBp)||
-|13|Type Systems|[CCured/TOPLAS05](https://dl.acm.org/doi/10.1145/1065887.1065892)<br>[TypeEq/CCS17](https://dl.acm.org/doi/abs/10.1145/3133956.3133998)||[CheckerFramework](https://checkerframework.org)|HW7: SmaLLVM Type Checker|
-|14|Symbolic Execution|[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)<br>[KLEE/OSDI08](https://dl.acm.org/doi/10.5555/1855741.1855756)||[KLEE](http://klee.github.io)||
-|15|Project Presentation||
+|12|[Logic and Constraint Languages](slides/lecture8.pdf)||||||
+|13|[Constraint-based Analysis](slides/lecture9.pdf)|[Securify/CCS18](https://dl.acm.org/doi/10.1145/3243734.3243780), [Ethainter/PLDI20](https://dl.acm.org/doi/abs/10.1145/3385412.3385990)|||[<img src="icons/github-classroom.png" width="16" />HW6: SmaLLVM Constraint-based analyzer](https://classroom.github.com/a/rw7SrKBp)||
+|14|[Type Systems](slides/lecture10.pdf)|[CCured/TOPLAS05](https://dl.acm.org/doi/10.1145/1065887.1065892)<br>[TypeEq/CCS17](https://dl.acm.org/doi/abs/10.1145/3133956.3133998)||[CheckerFramework](https://checkerframework.org)|HW7: SmaLLVM Type Checker|
+|15|Symbolic Execution|[Dart/PLDI05](https://dl.acm.org/doi/abs/10.1145/1065010.1065036)<br>[KLEE/OSDI08](https://dl.acm.org/doi/10.5555/1855741.1855756)||[KLEE](http://klee.github.io)||
+|16|Project Presentation||
